@@ -1,12 +1,12 @@
 {
-  "name": "react-math-keyboard",
+  "name": "pampir-input",
   "version": "1.6.3",
   "private": false,
   "declaration": true,
   "description": "Customizable math keyboard for React",
   "main": "./dist/react-math-keyboard",
   "types": "./dist/react-math-keyboard.d.ts",
-  "homepage": "https://krirkrirk.github.io/react-math-keyboard/",
+  "homepage": "https://github.com/tsohleDev/react-math-keyboard/",
   "keywords": [
     "math",
     "keyboard",
@@ -18,10 +18,10 @@
     "mathematics",
     "equations"
   ],
-  "author": "Robin Granda",
+  "author": "Tsohle Mokhemisi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/krirkrirk/react-math-keyboard.git"
+    "url": "https://github.com/tsohleDev/react-math-keyboard/"
   },
   "files": [
     "dist"
@@ -54,8 +54,8 @@
     "gh-pages": "^5.0.0",
     "html-webpack-plugin": "^5.5.0",
     "path": "^0.12.7",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "string-replace-loader": "^3.1.0",
     "style-loader": "^3.3.2",
     "ts-loader": "^9.4.2",
@@ -70,7 +70,7 @@
     "react-device-detect": "^2.2.3"
   },
   "peerDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   }
 }
